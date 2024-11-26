@@ -105513,7 +105513,7 @@ n=this.a.gaFP()
 m=$.aV()
 l=m.O(0,t.R)
 k=$.bhY()
-return A.bO(new A.Sh(A.a3(new A.H4(l.a,"/subscription",n,"Mamak",q,s,m.O(0,t.gc),p,k,B.Yh,new A.aBP(),o,r,j),j,i),j),j,j)},
+return A.bO(new A.Sh(A.a3(new A.H4(l.a,"/splash",n,"Mamak",q,s,m.O(0,t.gc),p,k,B.Yh,new A.aBP(),o,r,j),j,i),j),j,j)},
 $S:221}
 A.aBP.prototype={
 $2(a,b){return $.En()},
